@@ -2,12 +2,12 @@
 
 ## B1语言基础
 
-### Python
+- Python
 
-### C++
+- C++
 
 ## B2算法与数据结构
 
-### 剑指offer
+- 剑指offer
 
-### LeetCode
+- LeetCode
